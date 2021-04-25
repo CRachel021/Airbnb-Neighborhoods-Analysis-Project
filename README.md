@@ -17,12 +17,17 @@ host, customers and Airbnb. Things we did are included but not limit to data cle
 descriptive analysis, daily price modelings (machine learning), results visualizations, review analytics (natural 
 language processing). 
 
-## I. Data Preparation
-### 1. Data Cleaning 
-### 2. Descriptive Analysis 
-### 3. Data Transformation
-## II. Prices Modeling 
-### 1. Regressions 
-### 1. Regressions 
-
-## III. Insights and Recommendations
+## 1. Data Preparation
+### 1.1 Data Cleaning 
+### 1.2 Exploratory and descriptive analysis
+### 1.3 Data Transformation
+## 2. Prices Modeling 
+### 2.1 Data Splitting
+### 2.2 Regressions (Linear, Ridge, and Lasso)
+### 2.3 Neural Nets Regression 
+### 2.4 XGBoost Tree Model
+### 2.5 Random Forest Model
+### 2.7 Summary
+## 3. Insights and Recommendations
+### 3.1 Insights
+### 3.2 Recommendations
