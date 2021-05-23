@@ -18,9 +18,9 @@ descriptive analysis, daily price modelings (machine learning), results visualiz
 language processing). 
 
 ## 1. Data Preparation
-### 1.1 Data Cleaning 
+### 1.1 Data Cleaning and transformation
 ### 1.2 Exploratory and descriptive analysis
-### 1.3 Data Transformation
+### 1.3 Feature Engineering
 ## 2. Prices Modeling 
 ### 2.1 Data Splitting
 ### 2.2 Regressions (Linear, Ridge, and Lasso)
